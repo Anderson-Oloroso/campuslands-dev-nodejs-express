@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-01",
+  "version": "0.0.1",
+  "description": "Ejercicio 01 de node.js",
+  "keywords": [
+    "node.js",
+    "anderson-oloroso",
+    "ejercicio-01"
+  ],
+  "license": "ISC",
+  "author": "Anderson-Oloroso",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
