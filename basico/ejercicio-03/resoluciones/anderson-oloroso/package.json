@@ -1,0 +1,19 @@
+{
+  "name": "anderson-oloroso",
+  "version": "1.0.0",
+  "description": "Juegos rol play MOBA usando commonjs",
+  "keywords": [
+    "commonjs",
+    "node.js",
+    "moba",
+    "ejercicio3"
+  ],
+  "author": "Anderson-Oloroso",
+  "type": "commonjs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js"
+  }
+}
